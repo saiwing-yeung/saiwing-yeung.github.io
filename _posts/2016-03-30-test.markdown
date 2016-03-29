@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Testing 123!"
+date:   2016-03-30 05:00:15 +0800
+categories: jekyll update
+---
+I write code.
+
+{% highlight python %}
+def print_hi(name)
+    print(name)
+print_hi('Tom')
+# prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [my home page][saiwing-home] for more info about me.
+
+[saiwing-home]: http://saiwing-yeung.net
+
